@@ -6,5 +6,5 @@ gem "octakit 2.0"
 gem "awesome_print"
 
 group :development do
-gem "pry" 
+gem "pry"
 end
