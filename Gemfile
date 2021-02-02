@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra 1.4.4 "
-gem "hashe"
+gem "hashie"
 gem "octakit 2.0"
 gem "awesome_print"
 
 group :development do
-gem "pry"
+gem "pry" 
 end
